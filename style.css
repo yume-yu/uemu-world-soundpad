@@ -8,15 +8,18 @@
   margin: 0 20px;
 }
 
-.row {
+.soundpad {
   margin: 10px 20px;
   display: flex;
   justify-content: space-around;
+  align-content: space-between;
+  flex-wrap: wrap;
 }
 
-.soundpad {
+.sound {
   width: 30%;
   height: 50px;
+  margin-bottom: 10px;
 }
 
 audio {
