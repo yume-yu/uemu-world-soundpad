@@ -32,3 +32,4 @@ $('#btn-zone').useSound('mousedown touchstart', '#sound-zone');
 $('#btn-quiet2').useSound('mousedown touchstart', '#sound-quiet2');
 $('#btn-note').useSound('mousedown touchstart', '#sound-note');
 $('#btn-mokusyoku').useSound('mousedown touchstart', '#sound-mokusyoku');
+$('#btn-bomb').useSound('mousedown touchstart', '#sound-bomb');
