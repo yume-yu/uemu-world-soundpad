@@ -12,4 +12,10 @@
 
 })(this, this.jQuery);
 
-$('.sound').useSound('mousedown touchstart', '#sound');
+$('#btn-out').useSound('mousedown touchstart', '#sound-out');
+$('#btn-congraturation').useSound('mousedown touchstart', '#sound-congratulation');
+$('#btn-calendar').useSound('mousedown touchstart', '#sound-calendar');
+$('#btn-goal').useSound('mousedown touchstart', '#sound-goal');
+$('#btn-kora').useSound('mousedown touchstart', '#sound-kora');
+$('#btn-jump').useSound('mousedown touchstart', '#sound-jump');
+$('#btn-start').useSound('mousedown touchstart', '#sound-start');
